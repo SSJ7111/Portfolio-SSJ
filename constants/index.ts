@@ -61,7 +61,7 @@ export const Skill_data = [
   },
   {
     skill_name: "Postgre",
-    Image: "/postgre.png",
+    Image: "/postger.png",
     width: 80,
     height: 80,
   },
@@ -173,8 +173,8 @@ export const Backend_skill = [
   {
     skill_name: "Webpack",
     Image: "/webpack.png",
-    width: 55,
-    height: 55,
+    width: 70,
+    height: 70,
   },
   {
     skill_name: "Postger SQL",
@@ -212,8 +212,8 @@ export const Full_stack = [
   {
     skill_name: "Canva",
     Image: "/canva.png",
-    width: 70,
-    height: 70,
+    width: 80,
+    height: 80,
   },
 
   {
@@ -228,7 +228,7 @@ export const Other_skill = [
   {
     skill_name: "Github",
     Image: "/github-white.jpg",
-    width: 60,
-    height: 60,
+    width: 75,
+    height: 75,
   },
 ];
